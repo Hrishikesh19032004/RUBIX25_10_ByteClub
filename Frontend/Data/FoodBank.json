@@ -1,0 +1,578 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8777, 19.076]
+            },
+            "properties": {
+                "Food Bank Name": "Mumbai Food Bank",
+                "City": "Mumbai",
+                "Address": "Andheri West, Mumbai",
+                "Description": "Providing food to underprivileged communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8718, 19.0785]
+            },
+            "properties": {
+                "Food Bank Name": "Mumbai Mid Day Meal Project",
+                "City": "Mumbai",
+                "Address": "Dadar, Mumbai",
+                "Description": "Serving mid-day meals to children in need."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8531, 19.0565]
+            },
+            "properties": {
+                "Food Bank Name": "Bandra Food Aid",
+                "City": "Mumbai",
+                "Address": "Bandra, Mumbai",
+                "Description": "Supporting food security for the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.209, 28.6139]
+            },
+            "properties": {
+                "Food Bank Name": "Delhi Hunger Relief",
+                "City": "Delhi",
+                "Address": "Connaught Place, Delhi",
+                "Description": "Addressing hunger through food distribution."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2167, 28.6460]
+            },
+            "properties": {
+                "Food Bank Name": "Delhi Food Rescue",
+                "City": "Delhi",
+                "Address": "Safdarjung Enclave, Delhi",
+                "Description": "Rescuing surplus food to feed the homeless."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2419, 28.5837]
+            },
+            "properties": {
+                "Food Bank Name": "Food Bank Delhi NCR",
+                "City": "Delhi",
+                "Address": "Nehru Place, Delhi",
+                "Description": "Food distribution for low-income communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5946, 12.9716]
+            },
+            "properties": {
+                "Food Bank Name": "Bangalore Food Foundation",
+                "City": "Bangalore",
+                "Address": "Indiranagar, Bangalore",
+                "Description": "Serving meals and groceries to those in need."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5756, 12.9343]
+            },
+            "properties": {
+                "Food Bank Name": "Shivajinagar Food Bank",
+                "City": "Bangalore",
+                "Address": "Shivajinagar, Bangalore",
+                "Description": "Fighting hunger by distributing food in slums."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.6335, 12.9722]
+            },
+            "properties": {
+                "Food Bank Name": "Oxfam Food Relief",
+                "City": "Bangalore",
+                "Address": "Ashok Nagar, Bangalore",
+                "Description": "Providing food for displaced and marginalized groups."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2785, 13.0827]
+            },
+            "properties": {
+                "Food Bank Name": "Chennai Meal Bank",
+                "City": "Chennai",
+                "Address": "T. Nagar, Chennai",
+                "Description": "Collecting and distributing food for the underprivileged."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2908, 13.0674]
+            },
+            "properties": {
+                "Food Bank Name": "United Way Chennai Food Distribution",
+                "City": "Chennai",
+                "Address": "Alwarpet, Chennai",
+                "Description": "Improving food security for the vulnerable communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2385, 13.0346]
+            },
+            "properties": {
+                "Food Bank Name": "Chennai Hunger Relief Network",
+                "City": "Chennai",
+                "Address": "Kotturpuram, Chennai",
+                "Description": "Working to alleviate hunger and improve access to food."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5726]
+            },
+            "properties": {
+                "Food Bank Name": "Kolkata Food Bank",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Providing free meals and food packages to the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5822]
+            },
+            "properties": {
+                "Food Bank Name": "Kolkata Mid Day Meal Program",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Distributing meals to underprivileged children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3461, 22.5582]
+            },
+            "properties": {
+                "Food Bank Name": "Child Nutrition Kolkata",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Feeding children in need with nutritious meals."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.4745, 17.385]
+            },
+            "properties": {
+                "Food Bank Name": "Hyderabad Hunger Foundation",
+                "City": "Hyderabad",
+                "Address": "Hyderabad, Telangana",
+                "Description": "Serving food to homeless and low-income families."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.5569, 17.4499]
+            },
+            "properties": {
+                "Food Bank Name": "Teach For India Food Program",
+                "City": "Hyderabad",
+                "Address": "Hyderabad, Telangana",
+                "Description": "Providing meals to children in education programs."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8555, 18.5204]
+            },
+            "properties": {
+                "Food Bank Name": "Pune Food Bank",
+                "City": "Pune",
+                "Address": "Pune, Maharashtra",
+                "Description": "Fighting hunger and malnutrition in urban slums."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8317, 18.5204]
+            },
+            "properties": {
+                "Food Bank Name": "Bharatiya Jain Sanghatana Food Relief",
+                "City": "Pune",
+                "Address": "Pune, Maharashtra",
+                "Description": "Providing meals to underprivileged communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.5714, 23.0225]
+            },
+            "properties": {
+                "Food Bank Name": "Ahmedabad Food Share",
+                "City": "Ahmedabad",
+                "Address": "Ahmedabad, Gujarat",
+                "Description": "Collecting surplus food and distributing it to the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.5880, 23.0224]
+            },
+            "properties": {
+                "Food Bank Name": "Sahyog Food Bank",
+                "City": "Ahmedabad",
+                "Address": "Ahmedabad, Gujarat",
+                "Description": "Promoting food security and nutrition."
+            }
+            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8777, 19.076]
+            },
+            "properties": {
+                "Food Bank Name": "Mumbai Food Bank",
+                "City": "Mumbai",
+                "Address": "Andheri West, Mumbai",
+                "Description": "Providing food to underprivileged communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8718, 19.0785]
+            },
+            "properties": {
+                "Food Bank Name": "Mumbai Mid Day Meal Project",
+                "City": "Mumbai",
+                "Address": "Dadar, Mumbai",
+                "Description": "Serving mid-day meals to children in need."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8531, 19.0565]
+            },
+            "properties": {
+                "Food Bank Name": "Bandra Food Aid",
+                "City": "Mumbai",
+                "Address": "Bandra, Mumbai",
+                "Description": "Supporting food security for the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.209, 28.6139]
+            },
+            "properties": {
+                "Food Bank Name": "Delhi Hunger Relief",
+                "City": "Delhi",
+                "Address": "Connaught Place, Delhi",
+                "Description": "Addressing hunger through food distribution."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2167, 28.6460]
+            },
+            "properties": {
+                "Food Bank Name": "Delhi Food Rescue",
+                "City": "Delhi",
+                "Address": "Safdarjung Enclave, Delhi",
+                "Description": "Rescuing surplus food to feed the homeless."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.2419, 28.5837]
+            },
+            "properties": {
+                "Food Bank Name": "Food Bank Delhi NCR",
+                "City": "Delhi",
+                "Address": "Nehru Place, Delhi",
+                "Description": "Food distribution for low-income communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5946, 12.9716]
+            },
+            "properties": {
+                "Food Bank Name": "Bangalore Food Foundation",
+                "City": "Bangalore",
+                "Address": "Indiranagar, Bangalore",
+                "Description": "Serving meals and groceries to those in need."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5756, 12.9343]
+            },
+            "properties": {
+                "Food Bank Name": "Shivajinagar Food Bank",
+                "City": "Bangalore",
+                "Address": "Shivajinagar, Bangalore",
+                "Description": "Fighting hunger by distributing food in slums."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.6335, 12.9722]
+            },
+            "properties": {
+                "Food Bank Name": "Oxfam Food Relief",
+                "City": "Bangalore",
+                "Address": "Ashok Nagar, Bangalore",
+                "Description": "Providing food for displaced and marginalized groups."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2785, 13.0827]
+            },
+            "properties": {
+                "Food Bank Name": "Chennai Meal Bank",
+                "City": "Chennai",
+                "Address": "T. Nagar, Chennai",
+                "Description": "Collecting and distributing food for the underprivileged."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2908, 13.0674]
+            },
+            "properties": {
+                "Food Bank Name": "United Way Chennai Food Distribution",
+                "City": "Chennai",
+                "Address": "Alwarpet, Chennai",
+                "Description": "Improving food security for the vulnerable communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2385, 13.0346]
+            },
+            "properties": {
+                "Food Bank Name": "Chennai Hunger Relief Network",
+                "City": "Chennai",
+                "Address": "Kotturpuram, Chennai",
+                "Description": "Working to alleviate hunger and improve access to food."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5726]
+            },
+            "properties": {
+                "Food Bank Name": "Kolkata Food Bank",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Providing free meals and food packages to the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5822]
+            },
+            "properties": {
+                "Food Bank Name": "Kolkata Mid Day Meal Program",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Distributing meals to underprivileged children."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3461, 22.5582]
+            },
+            "properties": {
+                "Food Bank Name": "Child Nutrition Kolkata",
+                "City": "Kolkata",
+                "Address": "Kolkata, West Bengal",
+                "Description": "Feeding children in need with nutritious meals."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.4745, 17.385]
+            },
+            "properties": {
+                "Food Bank Name": "Hyderabad Hunger Foundation",
+                "City": "Hyderabad",
+                "Address": "Hyderabad, Telangana",
+                "Description": "Serving food to homeless and low-income families."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [78.5569, 17.4499]
+            },
+            "properties": {
+                "Food Bank Name": "Teach For India Food Program",
+                "City": "Hyderabad",
+                "Address": "Hyderabad, Telangana",
+                "Description": "Providing meals to children in education programs."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8555, 18.5204]
+            },
+            "properties": {
+                "Food Bank Name": "Pune Food Bank",
+                "City": "Pune",
+                "Address": "Pune, Maharashtra",
+                "Description": "Fighting hunger and malnutrition in urban slums."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [73.8317, 18.5204]
+            },
+            "properties": {
+                "Food Bank Name": "Bharatiya Jain Sanghatana Food Relief",
+                "City": "Pune",
+                "Address": "Pune, Maharashtra",
+                "Description": "Providing meals to underprivileged communities."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.5714, 23.0225]
+            },
+            "properties": {
+                "Food Bank Name": "Ahmedabad Food Share",
+                "City": "Ahmedabad",
+                "Address": "Ahmedabad, Gujarat",
+                "Description": "Collecting surplus food and distributing it to the needy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.5880, 23.0224]
+            },
+            "properties": {
+                "Food Bank Name": "Sahyog Food Bank",
+                "City": "Ahmedabad",
+                "Address": "Ahmedabad, Gujarat",
+                "Description": "Promoting food security and nutrition."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [79.0193, 21.1463]
+            },
+            "properties": {
+                "Food Bank Name": "Nagpur Food Aid",
+                "City": "Nagpur",
+                "Address": "Nagpur, Maharashtra",
+                "Description": "Providing free meals to the vulnerable population."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [74.3631, 15.2993]
+            },
+            "properties": {
+                "Food Bank Name": "Goa Hunger Relief",
+                "City": "Goa",
+                "Address": "Panaji, Goa",
+                "Description": "Feeding families facing food insecurity."
+            }
+        }
+    ]
+}

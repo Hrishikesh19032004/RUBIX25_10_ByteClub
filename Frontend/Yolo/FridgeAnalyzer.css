@@ -1,0 +1,69 @@
+/* FridgeAnalyzer.css */
+.fridge-analyzer {
+  background: linear-gradient(135deg, #f0f4f8, #d6e1e9);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h4 {
+  text-align: center;
+}
+
+input[type="file"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px 24px;
+  background-color: #4caf50;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  background-color: #f1f1f1;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+
+.bg-green-600 {
+  background-color: #4caf50;
+}
+
+.bg-yellow-100 {
+  background-color: #fff9c4;
+}
+
+.bg-red-100 {
+  background-color: #ffebee;
+}
+
+.bg-gray-100 {
+  background-color: #f7f7f7;
+}
+
+input[type="checkbox"] {
+  margin-right: 8px;
+}

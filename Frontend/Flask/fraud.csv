@@ -1,0 +1,601 @@
+foodbank_id,foodbank_name,location,sentiment,fraud,inventory_size,received_food_qty,delivered_food_qty
+FB001,Feed India,Mumbai,"Food was delivered late, but safety measures were adequate",Yes,2889,138,57
+FB001,Feed India,Mumbai,"Food safety could be improved, but delivery is on time",Yes,3293,150,94
+FB001,Feed India,Mumbai,"Food safety standards are usually met, but occasional delays in delivery",Yes,2571,118,58
+FB001,Feed India,Mumbai,"Food arrived on time, but cleanliness standards need improvement",Yes,3030,157,102
+FB001,Feed India,Mumbai,"Food delivered late occasionally, but maintained at proper temperatures",Yes,4262,132,62
+FB001,Feed India,Mumbai,"Food was delivered late, but safety measures were adequate",Yes,1135,92,67
+FB001,Feed India,Mumbai,"Food safety is a priority, but delivery delays occasionally occur",Yes,1287,57,50
+FB001,Feed India,Mumbai,"Timely delivery, but some concerns with food safety measures",Yes,2345,96,57
+FB001,Feed India,Mumbai,"Food was delivered late, but safety measures were adequate",Yes,2725,196,55
+FB001,Feed India,Mumbai,"Timely delivery, but food safety protocols were not fully followed",Yes,2855,188,60
+FB001,Feed India,Mumbai,"Food safety standards are usually met, but occasional delays in delivery",Yes,4070,64,51
+FB001,Feed India,Mumbai,"Food safety standards are usually met, but occasional delays in delivery",Yes,1833,127,127
+FB001,Feed India,Mumbai,"Occasional delays in food delivery, but food is stored safely",Yes,3877,165,119
+FB001,Feed India,Mumbai,"Food items are safe for consumption, consistently delivered on time",Yes,4444,177,166
+FB001,Feed India,Mumbai,"Occasional delays in food delivery, but food is stored safely",Yes,2155,166,102
+FB001,Feed India,Mumbai,"Food quality and safety are good, but delays in delivery need attention",Yes,3181,136,51
+FB001,Feed India,Mumbai,"Timely delivery, but some concerns with food safety measures",Yes,1557,94,77
+FB001,Feed India,Mumbai,"Food safety is a priority, but delivery delays occasionally occur",Yes,2663,164,117
+FB001,Feed India,Mumbai,"Food arrived on time, but cleanliness standards need improvement",Yes,1293,194,56
+FB001,Feed India,Mumbai,"Food quality is good, but there were slight delays in delivery",Yes,3430,118,66
+FB001,Feed India,Mumbai,"Food was delivered late, but maintained proper hygiene throughout",Yes,3906,123,83
+FB001,Feed India,Mumbai,"Food delivered late occasionally, but maintained at proper temperatures",Yes,2348,167,84
+FB001,Feed India,Mumbai,"Occasional delays in food delivery, but food is stored safely",Yes,1185,97,85
+FB001,Feed India,Mumbai,"Food safety protocols are consistent, but delivery could be more reliable",Yes,3583,61,55
+FB001,Feed India,Mumbai,"Food is handled hygienically, delivered promptly as promised",Yes,4424,81,54
+FB001,Feed India,Mumbai,"Food safety protocols are consistent, but delivery could be more reliable",Yes,1721,51,50
+FB001,Feed India,Mumbai,"Food items are safe for consumption, consistently delivered on time",Yes,4469,111,60
+FB001,Feed India,Mumbai,"Timely delivery, but some concerns with food safety measures",Yes,2087,113,94
+FB001,Feed India,Mumbai,"Food is handled hygienically, delivered promptly as promised",Yes,2343,123,122
+FB001,Feed India,Mumbai,"Food arrived late, but storage and hygiene were acceptable",Yes,2774,125,53
+FB002,Hunger-Free Delhi,Delhi,"Food quality is good, but there were slight delays in delivery",No,1471,66,54
+FB002,Hunger-Free Delhi,Delhi,"Food is handled hygienically, delivered promptly as promised",No,1751,143,122
+FB002,Hunger-Free Delhi,Delhi,"Food safety is a priority, but delivery delays occasionally occur",No,3768,189,112
+FB002,Hunger-Free Delhi,Delhi,"Food safety protocols are consistent, but delivery could be more reliable",No,4255,131,78
+FB002,Hunger-Free Delhi,Delhi,"Occasional delays in food delivery, but food is stored safely",No,1389,151,84
+FB002,Hunger-Free Delhi,Delhi,"Food was delivered late, but safety measures were adequate",No,3789,192,152
+FB002,Hunger-Free Delhi,Delhi,"Food is handled hygienically, delivered promptly as promised",No,4883,107,77
+FB002,Hunger-Free Delhi,Delhi,"Food arrived on time, but cleanliness standards need improvement",No,1228,85,58
+FB002,Hunger-Free Delhi,Delhi,"Food safety protocols are consistent, but delivery could be more reliable",No,2767,159,109
+FB002,Hunger-Free Delhi,Delhi,"Food quality is good, but there were slight delays in delivery",No,3134,73,53
+FB002,Hunger-Free Delhi,Delhi,"Food safety standards are strictly followed, no issues reported",No,4404,136,57
+FB002,Hunger-Free Delhi,Delhi,"Food was delivered late, but maintained proper hygiene throughout",No,1642,192,78
+FB002,Hunger-Free Delhi,Delhi,"Food items are safe for consumption, consistently delivered on time",No,1202,154,110
+FB002,Hunger-Free Delhi,Delhi,"Timely delivery, but some concerns with food safety measures",No,4555,155,120
+FB002,Hunger-Free Delhi,Delhi,"Food arrived on time, but cleanliness standards need improvement",No,3762,165,150
+FB002,Hunger-Free Delhi,Delhi,"Occasional delays in food delivery, but food is stored safely",No,1893,51,50
+FB002,Hunger-Free Delhi,Delhi,"Food delivered late occasionally, but maintained at proper temperatures",No,4845,122,97
+FB002,Hunger-Free Delhi,Delhi,"Food was delivered late, but maintained proper hygiene throughout",No,2831,67,57
+FB002,Hunger-Free Delhi,Delhi,"Timely delivery, but some concerns with food safety measures",No,2684,131,120
+FB002,Hunger-Free Delhi,Delhi,"Food arrived on time, but cleanliness standards need improvement",No,2866,79,50
+FB002,Hunger-Free Delhi,Delhi,"Timely food delivery, well-maintained storage conditions",No,4715,147,115
+FB002,Hunger-Free Delhi,Delhi,"Timely delivery, but food safety protocols were not fully followed",No,4575,89,56
+FB002,Hunger-Free Delhi,Delhi,"Food safety standards are usually met, but occasional delays in delivery",No,4100,99,53
+FB002,Hunger-Free Delhi,Delhi,"Occasional delays in food delivery, but food is stored safely",No,3589,55,53
+FB002,Hunger-Free Delhi,Delhi,"Food delivered on time, storage conditions were acceptable",No,2005,86,78
+FB002,Hunger-Free Delhi,Delhi,"Food arrived on time, but cleanliness standards need improvement",No,3392,122,85
+FB002,Hunger-Free Delhi,Delhi,"Food arrived late, but storage and hygiene were acceptable",No,3045,51,50
+FB002,Hunger-Free Delhi,Delhi,"Food arrived on time, hygiene practices were satisfactory",No,1579,135,64
+FB002,Hunger-Free Delhi,Delhi,"Safety protocols are in place, food quality is maintained and delivered on time",No,1591,97,68
+FB002,Hunger-Free Delhi,Delhi,"Food is handled hygienically, delivered promptly as promised",No,3714,133,63
+FB003,Bangalore Food Relief,Bangalore,"Food safety protocols are consistent, but delivery could be more reliable",Yes,2034,184,181
+FB003,Bangalore Food Relief,Bangalore,"Food safety protocols are consistent, but delivery could be more reliable",Yes,1942,115,83
+FB003,Bangalore Food Relief,Bangalore,"Food arrived on time, hygiene practices were satisfactory",Yes,4405,60,56
+FB003,Bangalore Food Relief,Bangalore,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,2897,183,91
+FB003,Bangalore Food Relief,Bangalore,"Food arrived late, but storage and hygiene were acceptable",Yes,3869,97,77
+FB003,Bangalore Food Relief,Bangalore,"Food is handled hygienically, delivered promptly as promised",Yes,3706,185,112
+FB003,Bangalore Food Relief,Bangalore,"Food safety standards are strictly followed, no issues reported",Yes,1416,58,54
+FB003,Bangalore Food Relief,Bangalore,"Food arrived on time, but cleanliness standards need improvement",Yes,1399,104,69
+FB003,Bangalore Food Relief,Bangalore,"Food safety is a priority, but delivery delays occasionally occur",Yes,3638,146,58
+FB003,Bangalore Food Relief,Bangalore,"Food delivered on time, storage conditions were acceptable",Yes,3032,62,56
+FB003,Bangalore Food Relief,Bangalore,"Timely delivery, but some concerns with food safety measures",Yes,3272,61,60
+FB003,Bangalore Food Relief,Bangalore,"Occasional delays in food delivery, but food is stored safely",Yes,1302,88,79
+FB003,Bangalore Food Relief,Bangalore,"Food arrived on time, though there were minor concerns with food safety",Yes,2935,109,74
+FB003,Bangalore Food Relief,Bangalore,"Food items are safe for consumption, consistently delivered on time",Yes,3565,95,62
+FB003,Bangalore Food Relief,Bangalore,"Food was delivered late, but safety measures were adequate",Yes,4846,152,72
+FB003,Bangalore Food Relief,Bangalore,"Food arrived on time, though there were minor concerns with food safety",Yes,1493,192,159
+FB003,Bangalore Food Relief,Bangalore,"Food arrived late, but storage and hygiene were acceptable",Yes,2824,181,132
+FB003,Bangalore Food Relief,Bangalore,"Food items are safe for consumption, consistently delivered on time",Yes,4416,54,51
+FB003,Bangalore Food Relief,Bangalore,"Food quality and safety are good, but delays in delivery need attention",Yes,1378,118,89
+FB003,Bangalore Food Relief,Bangalore,"Food safety standards are usually met, but occasional delays in delivery",Yes,1003,99,99
+FB003,Bangalore Food Relief,Bangalore,"Food items are safe for consumption, consistently delivered on time",Yes,1609,192,103
+FB003,Bangalore Food Relief,Bangalore,"Food delivered on time, storage conditions were acceptable",Yes,2364,74,66
+FB003,Bangalore Food Relief,Bangalore,"Food storage meets health and safety standards, no delays in delivery",Yes,1712,79,57
+FB003,Bangalore Food Relief,Bangalore,"Food storage meets health and safety standards, no delays in delivery",Yes,2310,104,96
+FB003,Bangalore Food Relief,Bangalore,"Timely delivery, but some concerns with food safety measures",Yes,3939,199,82
+FB003,Bangalore Food Relief,Bangalore,"Food safety could be improved, but delivery is on time",Yes,1330,183,150
+FB003,Bangalore Food Relief,Bangalore,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,1670,197,122
+FB003,Bangalore Food Relief,Bangalore,"Food was delivered late, but safety measures were adequate",Yes,1921,192,139
+FB003,Bangalore Food Relief,Bangalore,"Timely food delivery, well-maintained storage conditions",Yes,1753,128,91
+FB003,Bangalore Food Relief,Bangalore,"Food arrived on time, but cleanliness standards need improvement",Yes,1602,193,79
+FB004,Chennai Meals,Chennai,"Food storage meets health and safety standards, no delays in delivery",No,4305,148,102
+FB004,Chennai Meals,Chennai,"Food safety standards are strictly followed, no issues reported",No,3636,154,83
+FB004,Chennai Meals,Chennai,"Food was delivered late, but safety measures were adequate",No,3101,51,51
+FB004,Chennai Meals,Chennai,"Food storage meets health and safety standards, no delays in delivery",No,4835,183,172
+FB004,Chennai Meals,Chennai,"Food arrived late, but storage and hygiene were acceptable",No,1901,88,88
+FB004,Chennai Meals,Chennai,"Food delivered on time, storage conditions were acceptable",No,2630,89,58
+FB004,Chennai Meals,Chennai,"Food arrived on time, but cleanliness standards need improvement",No,2045,130,93
+FB004,Chennai Meals,Chennai,"Food quality is good, but there were slight delays in delivery",No,1541,77,58
+FB004,Chennai Meals,Chennai,"Food safety protocols are consistent, but delivery could be more reliable",No,4287,90,55
+FB004,Chennai Meals,Chennai,"Food quality is good, but there were slight delays in delivery",No,2224,199,73
+FB004,Chennai Meals,Chennai,"Food safety standards are usually met, but occasional delays in delivery",No,1794,187,136
+FB004,Chennai Meals,Chennai,"Food safety could be improved, but delivery is on time",No,1101,172,140
+FB004,Chennai Meals,Chennai,"Timely delivery, but food safety protocols were not fully followed",No,3776,81,57
+FB004,Chennai Meals,Chennai,"Food arrived on time, hygiene practices were satisfactory",No,1069,194,165
+FB004,Chennai Meals,Chennai,"Timely delivery, but food safety protocols were not fully followed",No,3639,90,65
+FB004,Chennai Meals,Chennai,"Food safety standards are usually met, but occasional delays in delivery",No,2026,110,70
+FB004,Chennai Meals,Chennai,"Food safety standards are usually met, but occasional delays in delivery",No,2852,50,50
+FB004,Chennai Meals,Chennai,"Food arrived on time, but cleanliness standards need improvement",No,1329,160,83
+FB004,Chennai Meals,Chennai,"Timely food delivery, well-maintained storage conditions",No,4246,120,109
+FB004,Chennai Meals,Chennai,"Occasional delays in food delivery, but food is stored safely",No,3099,180,75
+FB004,Chennai Meals,Chennai,"Food safety is a priority, but delivery delays occasionally occur",No,1691,67,55
+FB004,Chennai Meals,Chennai,"Food safety standards are usually met, but occasional delays in delivery",No,4219,196,168
+FB004,Chennai Meals,Chennai,"Safety protocols are in place, food quality is maintained and delivered on time",No,1240,50,50
+FB004,Chennai Meals,Chennai,"Food quality and safety are good, but delays in delivery need attention",No,3737,53,51
+FB004,Chennai Meals,Chennai,"Food delivered late occasionally, but maintained at proper temperatures",No,4551,58,50
+FB004,Chennai Meals,Chennai,"Safety protocols are in place, food quality is maintained and delivered on time",No,2610,144,60
+FB004,Chennai Meals,Chennai,"Food arrived on time, though there were minor concerns with food safety",No,4813,73,57
+FB004,Chennai Meals,Chennai,"Food delivered on time, storage conditions were acceptable",No,3526,124,91
+FB004,Chennai Meals,Chennai,"Food quality and safety are good, but delays in delivery need attention",No,2352,168,151
+FB004,Chennai Meals,Chennai,"Timely food delivery, well-maintained storage conditions",No,2555,53,50
+FB005,Kolkata Food Aid,Kolkata,"Occasional delays in food delivery, but food is stored safely",No,3946,98,74
+FB005,Kolkata Food Aid,Kolkata,"Food delivered late occasionally, but maintained at proper temperatures",No,4532,112,100
+FB005,Kolkata Food Aid,Kolkata,"Food safety protocols are consistent, but delivery could be more reliable",No,4439,162,117
+FB005,Kolkata Food Aid,Kolkata,"Timely delivery, but food safety protocols were not fully followed",No,1204,96,69
+FB005,Kolkata Food Aid,Kolkata,"Food storage meets health and safety standards, no delays in delivery",No,2396,93,53
+FB005,Kolkata Food Aid,Kolkata,"Food items are safe for consumption, consistently delivered on time",No,1127,179,74
+FB005,Kolkata Food Aid,Kolkata,"Safety protocols are in place, food quality is maintained and delivered on time",No,2865,133,64
+FB005,Kolkata Food Aid,Kolkata,"Timely delivery, but some concerns with food safety measures",No,2918,119,54
+FB005,Kolkata Food Aid,Kolkata,"Food safety standards are usually met, but occasional delays in delivery",No,4008,173,149
+FB005,Kolkata Food Aid,Kolkata,"Food safety standards are usually met, but occasional delays in delivery",No,2043,157,120
+FB005,Kolkata Food Aid,Kolkata,"Food is handled hygienically, delivered promptly as promised",No,2828,129,107
+FB005,Kolkata Food Aid,Kolkata,"Food arrived on time, though there were minor concerns with food safety",No,2117,152,85
+FB005,Kolkata Food Aid,Kolkata,"Food items are safe for consumption, consistently delivered on time",No,1227,166,87
+FB005,Kolkata Food Aid,Kolkata,"Food quality is good, but there were slight delays in delivery",No,3780,176,118
+FB005,Kolkata Food Aid,Kolkata,"Food safety protocols are consistent, but delivery could be more reliable",No,2271,182,96
+FB005,Kolkata Food Aid,Kolkata,"Occasional delays in food delivery, but food is stored safely",No,2623,192,112
+FB005,Kolkata Food Aid,Kolkata,"Food safety is a priority, but delivery delays occasionally occur",No,1417,153,71
+FB005,Kolkata Food Aid,Kolkata,"Food safety standards are usually met, but occasional delays in delivery",No,1376,89,82
+FB005,Kolkata Food Aid,Kolkata,"Food safety is a priority, but delivery delays occasionally occur",No,2723,192,55
+FB005,Kolkata Food Aid,Kolkata,"Food safety protocols are consistent, but delivery could be more reliable",No,3807,70,61
+FB005,Kolkata Food Aid,Kolkata,"Food arrived late, but storage and hygiene were acceptable",No,4109,148,148
+FB005,Kolkata Food Aid,Kolkata,"Occasional delays in food delivery, but food is stored safely",No,2162,189,134
+FB005,Kolkata Food Aid,Kolkata,"Food was delivered late, but safety measures were adequate",No,2373,86,50
+FB005,Kolkata Food Aid,Kolkata,"Food delivered late occasionally, but maintained at proper temperatures",No,4022,66,54
+FB005,Kolkata Food Aid,Kolkata,"Food safety standards are strictly followed, no issues reported",No,1019,81,75
+FB005,Kolkata Food Aid,Kolkata,"Timely food delivery, well-maintained storage conditions",No,3168,161,160
+FB005,Kolkata Food Aid,Kolkata,"Food safety standards are usually met, but occasional delays in delivery",No,1131,120,118
+FB005,Kolkata Food Aid,Kolkata,"Food was delivered late, but safety measures were adequate",No,3309,103,63
+FB005,Kolkata Food Aid,Kolkata,"Timely delivery, but some concerns with food safety measures",No,1974,132,118
+FB005,Kolkata Food Aid,Kolkata,"Food quality and safety are good, but delays in delivery need attention",No,4346,127,74
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Timely delivery, but food safety protocols were not fully followed",No,4873,85,76
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Safety protocols are in place, food quality is maintained and delivered on time",No,1258,173,72
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Timely delivery, but food safety protocols were not fully followed",No,1423,126,119
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food arrived on time, hygiene practices were satisfactory",No,2615,162,78
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food quality is good, but there were slight delays in delivery",No,1341,61,60
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food safety standards are strictly followed, no issues reported",No,3727,84,54
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food quality and safety are good, but delays in delivery need attention",No,2881,135,105
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food is handled hygienically, delivered promptly as promised",No,4234,136,119
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food is handled hygienically, delivered promptly as promised",No,3785,197,140
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Timely delivery, but some concerns with food safety measures",No,3481,87,52
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food arrived late, but storage and hygiene were acceptable",No,4246,113,68
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food delivered late occasionally, but maintained at proper temperatures",No,3861,80,77
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food items are safe for consumption, consistently delivered on time",No,4620,189,111
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food is handled hygienically, delivered promptly as promised",No,3966,122,67
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food safety standards are usually met, but occasional delays in delivery",No,3564,102,75
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food was delivered late, but maintained proper hygiene throughout",No,3998,82,78
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food delivered late occasionally, but maintained at proper temperatures",No,4856,74,55
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food safety standards are strictly followed, no issues reported",No,4532,84,53
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food arrived on time, hygiene practices were satisfactory",No,4011,144,122
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food items are safe for consumption, consistently delivered on time",No,3792,91,71
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food safety standards are usually met, but occasional delays in delivery",No,3983,115,109
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food safety is a priority, but delivery delays occasionally occur",No,3566,117,63
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food arrived late, but storage and hygiene were acceptable",No,3329,178,133
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food delivered on time, storage conditions were acceptable",No,3980,93,81
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food is handled hygienically, delivered promptly as promised",No,2975,149,147
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food was delivered late, but safety measures were adequate",No,3599,164,99
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Timely food delivery, well-maintained storage conditions",No,3509,135,99
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Food safety could be improved, but delivery is on time",No,1147,155,117
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Timely delivery, but some concerns with food safety measures",No,2882,72,72
+FB006,Hyderabad Hunger Solutions,Hyderabad,"Timely delivery, but some concerns with food safety measures",No,1572,128,89
+FB007,Pune Pantry,Pune,"Food is handled hygienically, delivered promptly as promised",Yes,3994,182,165
+FB007,Pune Pantry,Pune,"Food quality and safety are good, but delays in delivery need attention",Yes,4430,80,79
+FB007,Pune Pantry,Pune,"Food was delivered late, but maintained proper hygiene throughout",Yes,2274,53,53
+FB007,Pune Pantry,Pune,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,4252,106,102
+FB007,Pune Pantry,Pune,"Food arrived on time, hygiene practices were satisfactory",Yes,4467,160,140
+FB007,Pune Pantry,Pune,"Food delivered late occasionally, but maintained at proper temperatures",Yes,1040,173,138
+FB007,Pune Pantry,Pune,"Food was delivered late, but maintained proper hygiene throughout",Yes,2899,86,63
+FB007,Pune Pantry,Pune,"Timely delivery, but some concerns with food safety measures",Yes,1153,189,131
+FB007,Pune Pantry,Pune,"Occasional delays in food delivery, but food is stored safely",Yes,4196,57,53
+FB007,Pune Pantry,Pune,"Occasional delays in food delivery, but food is stored safely",Yes,3213,104,103
+FB007,Pune Pantry,Pune,"Food storage meets health and safety standards, no delays in delivery",Yes,4752,180,121
+FB007,Pune Pantry,Pune,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,2009,117,96
+FB007,Pune Pantry,Pune,"Food safety standards are usually met, but occasional delays in delivery",Yes,3978,86,67
+FB007,Pune Pantry,Pune,"Food items are safe for consumption, consistently delivered on time",Yes,2114,160,149
+FB007,Pune Pantry,Pune,"Food safety could be improved, but delivery is on time",Yes,3510,171,84
+FB007,Pune Pantry,Pune,"Food was delivered late, but safety measures were adequate",Yes,2009,92,72
+FB007,Pune Pantry,Pune,"Food storage meets health and safety standards, no delays in delivery",Yes,2874,190,51
+FB007,Pune Pantry,Pune,"Food was delivered late, but safety measures were adequate",Yes,4633,180,171
+FB007,Pune Pantry,Pune,"Food was delivered late, but safety measures were adequate",Yes,4873,174,124
+FB007,Pune Pantry,Pune,"Food safety protocols are consistent, but delivery could be more reliable",Yes,2032,120,87
+FB007,Pune Pantry,Pune,"Timely delivery, but some concerns with food safety measures",Yes,4937,193,176
+FB007,Pune Pantry,Pune,"Food safety protocols are consistent, but delivery could be more reliable",Yes,2831,69,56
+FB007,Pune Pantry,Pune,"Food safety could be improved, but delivery is on time",Yes,4972,59,57
+FB007,Pune Pantry,Pune,"Food arrived late, but storage and hygiene were acceptable",Yes,3741,170,83
+FB007,Pune Pantry,Pune,"Food safety is a priority, but delivery delays occasionally occur",Yes,3929,148,107
+FB007,Pune Pantry,Pune,"Timely food delivery, well-maintained storage conditions",Yes,1970,174,157
+FB007,Pune Pantry,Pune,"Food was delivered late, but safety measures were adequate",Yes,3603,61,51
+FB007,Pune Pantry,Pune,"Food delivered on time, storage conditions were acceptable",Yes,1147,134,73
+FB007,Pune Pantry,Pune,"Food arrived on time, but cleanliness standards need improvement",Yes,3773,71,63
+FB007,Pune Pantry,Pune,"Food delivered late occasionally, but maintained at proper temperatures",Yes,1885,165,151
+FB008,Ahmedabad Aid,Ahmedabad,"Food arrived on time, hygiene practices were satisfactory",No,3116,90,70
+FB008,Ahmedabad Aid,Ahmedabad,"Food arrived on time, but cleanliness standards need improvement",No,3684,101,77
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety could be improved, but delivery is on time",No,1381,111,99
+FB008,Ahmedabad Aid,Ahmedabad,"Food arrived on time, though there were minor concerns with food safety",No,2893,173,61
+FB008,Ahmedabad Aid,Ahmedabad,"Food delivered on time, storage conditions were acceptable",No,2457,146,122
+FB008,Ahmedabad Aid,Ahmedabad,"Food delivered on time, storage conditions were acceptable",No,3967,142,131
+FB008,Ahmedabad Aid,Ahmedabad,"Food delivered on time, storage conditions were acceptable",No,4400,156,147
+FB008,Ahmedabad Aid,Ahmedabad,"Timely food delivery, well-maintained storage conditions",No,1293,64,52
+FB008,Ahmedabad Aid,Ahmedabad,"Occasional delays in food delivery, but food is stored safely",No,3266,114,65
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety is a priority, but delivery delays occasionally occur",No,3776,52,51
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety is a priority, but delivery delays occasionally occur",No,3109,103,89
+FB008,Ahmedabad Aid,Ahmedabad,"Food was delivered late, but safety measures were adequate",No,2851,162,51
+FB008,Ahmedabad Aid,Ahmedabad,"Food arrived on time, hygiene practices were satisfactory",No,1345,68,54
+FB008,Ahmedabad Aid,Ahmedabad,"Food quality is good, but there were slight delays in delivery",No,4217,104,52
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety standards are strictly followed, no issues reported",No,1680,172,120
+FB008,Ahmedabad Aid,Ahmedabad,"Food arrived on time, hygiene practices were satisfactory",No,3217,79,59
+FB008,Ahmedabad Aid,Ahmedabad,"Timely delivery, but food safety protocols were not fully followed",No,1783,77,54
+FB008,Ahmedabad Aid,Ahmedabad,"Food was delivered late, but maintained proper hygiene throughout",No,2763,140,117
+FB008,Ahmedabad Aid,Ahmedabad,"Food delivered on time, storage conditions were acceptable",No,3483,61,54
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety protocols are consistent, but delivery could be more reliable",No,2319,137,101
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety could be improved, but delivery is on time",No,2852,168,66
+FB008,Ahmedabad Aid,Ahmedabad,"Timely delivery, but some concerns with food safety measures",No,2303,122,109
+FB008,Ahmedabad Aid,Ahmedabad,"Food is handled hygienically, delivered promptly as promised",No,4430,97,93
+FB008,Ahmedabad Aid,Ahmedabad,"Food items are safe for consumption, consistently delivered on time",No,2336,68,63
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety protocols are consistent, but delivery could be more reliable",No,2731,195,116
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety protocols are consistent, but delivery could be more reliable",No,2226,197,88
+FB008,Ahmedabad Aid,Ahmedabad,"Food arrived on time, but cleanliness standards need improvement",No,2978,99,56
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety protocols are consistent, but delivery could be more reliable",No,1949,69,65
+FB008,Ahmedabad Aid,Ahmedabad,"Timely delivery, but some concerns with food safety measures",No,1327,97,66
+FB008,Ahmedabad Aid,Ahmedabad,"Food safety standards are usually met, but occasional delays in delivery",No,4555,108,100
+FB009,Jaipur Food Center,Jaipur,"Food safety is a priority, but delivery delays occasionally occur",No,3691,74,65
+FB009,Jaipur Food Center,Jaipur,"Timely food delivery, well-maintained storage conditions",No,2873,109,62
+FB009,Jaipur Food Center,Jaipur,"Food delivered on time, storage conditions were acceptable",No,3957,127,127
+FB009,Jaipur Food Center,Jaipur,"Food safety is a priority, but delivery delays occasionally occur",No,3187,104,83
+FB009,Jaipur Food Center,Jaipur,"Food delivered late occasionally, but maintained at proper temperatures",No,3530,112,52
+FB009,Jaipur Food Center,Jaipur,"Food storage meets health and safety standards, no delays in delivery",No,1579,98,93
+FB009,Jaipur Food Center,Jaipur,"Food storage meets health and safety standards, no delays in delivery",No,3893,181,148
+FB009,Jaipur Food Center,Jaipur,"Timely delivery, but some concerns with food safety measures",No,1545,192,179
+FB009,Jaipur Food Center,Jaipur,"Food is handled hygienically, delivered promptly as promised",No,4741,96,84
+FB009,Jaipur Food Center,Jaipur,"Food arrived late, but storage and hygiene were acceptable",No,4081,139,57
+FB009,Jaipur Food Center,Jaipur,"Food delivered late occasionally, but maintained at proper temperatures",No,3885,129,88
+FB009,Jaipur Food Center,Jaipur,"Food safety could be improved, but delivery is on time",No,4009,138,132
+FB009,Jaipur Food Center,Jaipur,"Food storage meets health and safety standards, no delays in delivery",No,2107,66,50
+FB009,Jaipur Food Center,Jaipur,"Food safety standards are usually met, but occasional delays in delivery",No,4160,188,58
+FB009,Jaipur Food Center,Jaipur,"Food delivered on time, storage conditions were acceptable",No,3013,99,95
+FB009,Jaipur Food Center,Jaipur,"Food safety standards are usually met, but occasional delays in delivery",No,3221,172,107
+FB009,Jaipur Food Center,Jaipur,"Food was delivered late, but maintained proper hygiene throughout",No,3414,144,109
+FB009,Jaipur Food Center,Jaipur,"Occasional delays in food delivery, but food is stored safely",No,1929,84,54
+FB009,Jaipur Food Center,Jaipur,"Food quality is good, but there were slight delays in delivery",No,2010,111,105
+FB009,Jaipur Food Center,Jaipur,"Food is handled hygienically, delivered promptly as promised",No,3089,143,108
+FB009,Jaipur Food Center,Jaipur,"Food delivered on time, storage conditions were acceptable",No,3157,172,101
+FB009,Jaipur Food Center,Jaipur,"Food safety protocols are consistent, but delivery could be more reliable",No,2864,86,73
+FB009,Jaipur Food Center,Jaipur,"Food was delivered late, but safety measures were adequate",No,2275,63,61
+FB009,Jaipur Food Center,Jaipur,"Food safety standards are strictly followed, no issues reported",No,3867,96,81
+FB009,Jaipur Food Center,Jaipur,"Food was delivered late, but maintained proper hygiene throughout",No,1277,129,105
+FB009,Jaipur Food Center,Jaipur,"Safety protocols are in place, food quality is maintained and delivered on time",No,4049,175,52
+FB009,Jaipur Food Center,Jaipur,"Food delivered on time, storage conditions were acceptable",No,3385,121,56
+FB009,Jaipur Food Center,Jaipur,"Food arrived on time, though there were minor concerns with food safety",No,2700,70,59
+FB009,Jaipur Food Center,Jaipur,"Food arrived late, but storage and hygiene were acceptable",No,4382,131,96
+FB009,Jaipur Food Center,Jaipur,"Food quality and safety are good, but delays in delivery need attention",No,2565,171,117
+FB010,Surat Food Foundation,Surat,"Food arrived late, but storage and hygiene were acceptable",No,3345,62,57
+FB010,Surat Food Foundation,Surat,"Food safety standards are usually met, but occasional delays in delivery",No,4465,164,77
+FB010,Surat Food Foundation,Surat,"Food was delivered late, but safety measures were adequate",No,3081,136,91
+FB010,Surat Food Foundation,Surat,"Food quality and safety are good, but delays in delivery need attention",No,3729,109,84
+FB010,Surat Food Foundation,Surat,"Food is handled hygienically, delivered promptly as promised",No,2987,199,150
+FB010,Surat Food Foundation,Surat,"Timely delivery, but some concerns with food safety measures",No,4750,171,114
+FB010,Surat Food Foundation,Surat,"Food delivered on time, storage conditions were acceptable",No,2226,112,103
+FB010,Surat Food Foundation,Surat,"Food is handled hygienically, delivered promptly as promised",No,4671,117,75
+FB010,Surat Food Foundation,Surat,"Timely food delivery, well-maintained storage conditions",No,1265,63,59
+FB010,Surat Food Foundation,Surat,"Timely food delivery, well-maintained storage conditions",No,4873,156,99
+FB010,Surat Food Foundation,Surat,"Food was delivered late, but safety measures were adequate",No,2477,153,118
+FB010,Surat Food Foundation,Surat,"Food arrived on time, but cleanliness standards need improvement",No,2053,119,79
+FB010,Surat Food Foundation,Surat,"Food quality and safety are good, but delays in delivery need attention",No,4358,54,52
+FB010,Surat Food Foundation,Surat,"Food quality is good, but there were slight delays in delivery",No,3864,59,58
+FB010,Surat Food Foundation,Surat,"Timely delivery, but some concerns with food safety measures",No,3230,50,50
+FB010,Surat Food Foundation,Surat,"Food safety standards are usually met, but occasional delays in delivery",No,2251,133,94
+FB010,Surat Food Foundation,Surat,"Safety protocols are in place, food quality is maintained and delivered on time",No,2101,70,64
+FB010,Surat Food Foundation,Surat,"Food delivered on time, storage conditions were acceptable",No,4100,123,53
+FB010,Surat Food Foundation,Surat,"Food safety is a priority, but delivery delays occasionally occur",No,2988,92,77
+FB010,Surat Food Foundation,Surat,"Food safety protocols are consistent, but delivery could be more reliable",No,4917,95,62
+FB010,Surat Food Foundation,Surat,"Food quality is good, but there were slight delays in delivery",No,3408,186,118
+FB010,Surat Food Foundation,Surat,"Timely delivery, but food safety protocols were not fully followed",No,1739,107,88
+FB010,Surat Food Foundation,Surat,"Food safety standards are usually met, but occasional delays in delivery",No,4669,66,62
+FB010,Surat Food Foundation,Surat,"Food safety standards are usually met, but occasional delays in delivery",No,2041,134,114
+FB010,Surat Food Foundation,Surat,"Food storage meets health and safety standards, no delays in delivery",No,2971,186,120
+FB010,Surat Food Foundation,Surat,"Food was delivered late, but safety measures were adequate",No,3741,78,63
+FB010,Surat Food Foundation,Surat,"Food was delivered late, but safety measures were adequate",No,3622,88,82
+FB010,Surat Food Foundation,Surat,"Food items are safe for consumption, consistently delivered on time",No,1335,174,172
+FB010,Surat Food Foundation,Surat,"Food delivered on time, storage conditions were acceptable",No,1322,80,78
+FB010,Surat Food Foundation,Surat,"Food arrived on time, though there were minor concerns with food safety",No,3767,168,128
+FB011,Lucknow Relief,Lucknow,"Food was delivered late, but safety measures were adequate",No,2942,153,108
+FB011,Lucknow Relief,Lucknow,"Food arrived on time, though there were minor concerns with food safety",No,2102,76,72
+FB011,Lucknow Relief,Lucknow,"Food arrived on time, though there were minor concerns with food safety",No,2189,138,59
+FB011,Lucknow Relief,Lucknow,"Safety protocols are in place, food quality is maintained and delivered on time",No,2398,157,80
+FB011,Lucknow Relief,Lucknow,"Safety protocols are in place, food quality is maintained and delivered on time",No,1727,86,73
+FB011,Lucknow Relief,Lucknow,"Food safety could be improved, but delivery is on time",No,4533,54,50
+FB011,Lucknow Relief,Lucknow,"Occasional delays in food delivery, but food is stored safely",No,3808,70,61
+FB011,Lucknow Relief,Lucknow,"Food delivered late occasionally, but maintained at proper temperatures",No,4735,100,96
+FB011,Lucknow Relief,Lucknow,"Food quality is good, but there were slight delays in delivery",No,4379,135,108
+FB011,Lucknow Relief,Lucknow,"Food quality and safety are good, but delays in delivery need attention",No,3981,137,77
+FB011,Lucknow Relief,Lucknow,"Food was delivered late, but maintained proper hygiene throughout",No,4735,52,50
+FB011,Lucknow Relief,Lucknow,"Food safety standards are usually met, but occasional delays in delivery",No,1907,154,128
+FB011,Lucknow Relief,Lucknow,"Food arrived on time, though there were minor concerns with food safety",No,1562,98,60
+FB011,Lucknow Relief,Lucknow,"Food safety standards are strictly followed, no issues reported",No,2687,154,84
+FB011,Lucknow Relief,Lucknow,"Food arrived on time, but cleanliness standards need improvement",No,3630,147,65
+FB011,Lucknow Relief,Lucknow,"Food safety is a priority, but delivery delays occasionally occur",No,1108,186,154
+FB011,Lucknow Relief,Lucknow,"Food safety is a priority, but delivery delays occasionally occur",No,3177,51,51
+FB011,Lucknow Relief,Lucknow,"Occasional delays in food delivery, but food is stored safely",No,2571,140,111
+FB011,Lucknow Relief,Lucknow,"Timely food delivery, well-maintained storage conditions",No,2020,160,77
+FB011,Lucknow Relief,Lucknow,"Food safety could be improved, but delivery is on time",No,1702,117,94
+FB011,Lucknow Relief,Lucknow,"Timely delivery, but food safety protocols were not fully followed",No,4462,98,97
+FB011,Lucknow Relief,Lucknow,"Food safety is a priority, but delivery delays occasionally occur",No,2190,190,172
+FB011,Lucknow Relief,Lucknow,"Food safety is a priority, but delivery delays occasionally occur",No,2209,191,90
+FB011,Lucknow Relief,Lucknow,"Food arrived on time, but cleanliness standards need improvement",No,2983,108,66
+FB011,Lucknow Relief,Lucknow,"Food safety could be improved, but delivery is on time",No,2187,106,66
+FB011,Lucknow Relief,Lucknow,"Food arrived on time, though there were minor concerns with food safety",No,4342,156,121
+FB011,Lucknow Relief,Lucknow,"Timely delivery, but some concerns with food safety measures",No,1628,82,50
+FB011,Lucknow Relief,Lucknow,"Food safety protocols are consistent, but delivery could be more reliable",No,3586,60,54
+FB011,Lucknow Relief,Lucknow,"Safety protocols are in place, food quality is maintained and delivered on time",No,3018,187,113
+FB011,Lucknow Relief,Lucknow,"Food safety could be improved, but delivery is on time",No,1272,110,51
+FB012,Indore Food Bank,Indore,"Food arrived on time, though there were minor concerns with food safety",Yes,2413,153,146
+FB012,Indore Food Bank,Indore,"Food delivered late occasionally, but maintained at proper temperatures",Yes,3846,65,57
+FB012,Indore Food Bank,Indore,"Food delivered late occasionally, but maintained at proper temperatures",Yes,1471,61,61
+FB012,Indore Food Bank,Indore,"Timely food delivery, well-maintained storage conditions",Yes,1192,159,98
+FB012,Indore Food Bank,Indore,"Food safety standards are usually met, but occasional delays in delivery",Yes,2321,54,50
+FB012,Indore Food Bank,Indore,"Food delivered late occasionally, but maintained at proper temperatures",Yes,3821,56,54
+FB012,Indore Food Bank,Indore,"Food delivered on time, storage conditions were acceptable",Yes,4495,121,112
+FB012,Indore Food Bank,Indore,"Food quality is good, but there were slight delays in delivery",Yes,1959,193,106
+FB012,Indore Food Bank,Indore,"Food quality is good, but there were slight delays in delivery",Yes,3085,169,167
+FB012,Indore Food Bank,Indore,"Food safety protocols are consistent, but delivery could be more reliable",Yes,1386,53,50
+FB012,Indore Food Bank,Indore,"Food was delivered late, but safety measures were adequate",Yes,1503,124,117
+FB012,Indore Food Bank,Indore,"Food safety protocols are consistent, but delivery could be more reliable",Yes,3483,94,61
+FB012,Indore Food Bank,Indore,"Food quality is good, but there were slight delays in delivery",Yes,1379,173,158
+FB012,Indore Food Bank,Indore,"Food delivered on time, storage conditions were acceptable",Yes,4728,67,54
+FB012,Indore Food Bank,Indore,"Food was delivered late, but maintained proper hygiene throughout",Yes,1807,113,65
+FB012,Indore Food Bank,Indore,"Timely delivery, but some concerns with food safety measures",Yes,2204,96,50
+FB012,Indore Food Bank,Indore,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,1801,154,121
+FB012,Indore Food Bank,Indore,"Food delivered on time, storage conditions were acceptable",Yes,3808,116,74
+FB012,Indore Food Bank,Indore,"Food safety is a priority, but delivery delays occasionally occur",Yes,2265,71,51
+FB012,Indore Food Bank,Indore,"Food arrived late, but storage and hygiene were acceptable",Yes,1659,154,113
+FB012,Indore Food Bank,Indore,"Food delivered late occasionally, but maintained at proper temperatures",Yes,2846,91,77
+FB012,Indore Food Bank,Indore,"Food delivered on time, storage conditions were acceptable",Yes,1255,83,52
+FB012,Indore Food Bank,Indore,"Food was delivered late, but safety measures were adequate",Yes,4538,99,66
+FB012,Indore Food Bank,Indore,"Timely delivery, but food safety protocols were not fully followed",Yes,4637,175,74
+FB012,Indore Food Bank,Indore,"Food safety standards are usually met, but occasional delays in delivery",Yes,2510,72,72
+FB012,Indore Food Bank,Indore,"Timely delivery, but food safety protocols were not fully followed",Yes,4604,145,133
+FB012,Indore Food Bank,Indore,"Food safety standards are usually met, but occasional delays in delivery",Yes,1019,77,66
+FB012,Indore Food Bank,Indore,"Food delivered on time, storage conditions were acceptable",Yes,1745,93,79
+FB012,Indore Food Bank,Indore,"Food was delivered late, but safety measures were adequate",Yes,4718,94,79
+FB012,Indore Food Bank,Indore,"Food is handled hygienically, delivered promptly as promised",Yes,2296,71,65
+FB013,Bhopal Hunger Help,Bhopal,"Food safety standards are usually met, but occasional delays in delivery",No,1586,137,56
+FB013,Bhopal Hunger Help,Bhopal,"Food items are safe for consumption, consistently delivered on time",No,1383,57,57
+FB013,Bhopal Hunger Help,Bhopal,"Occasional delays in food delivery, but food is stored safely",No,1172,166,74
+FB013,Bhopal Hunger Help,Bhopal,"Food is handled hygienically, delivered promptly as promised",No,3049,70,62
+FB013,Bhopal Hunger Help,Bhopal,"Timely delivery, but food safety protocols were not fully followed",No,3755,188,104
+FB013,Bhopal Hunger Help,Bhopal,"Timely delivery, but some concerns with food safety measures",No,1479,119,97
+FB013,Bhopal Hunger Help,Bhopal,"Food safety standards are usually met, but occasional delays in delivery",No,3439,174,85
+FB013,Bhopal Hunger Help,Bhopal,"Occasional delays in food delivery, but food is stored safely",No,1749,88,77
+FB013,Bhopal Hunger Help,Bhopal,"Food was delivered late, but maintained proper hygiene throughout",No,4245,65,65
+FB013,Bhopal Hunger Help,Bhopal,"Timely delivery, but food safety protocols were not fully followed",No,2354,98,96
+FB013,Bhopal Hunger Help,Bhopal,"Food storage meets health and safety standards, no delays in delivery",No,3597,114,111
+FB013,Bhopal Hunger Help,Bhopal,"Food quality and safety are good, but delays in delivery need attention",No,2033,178,66
+FB013,Bhopal Hunger Help,Bhopal,"Timely delivery, but food safety protocols were not fully followed",No,2102,70,53
+FB013,Bhopal Hunger Help,Bhopal,"Food arrived late, but storage and hygiene were acceptable",No,2051,99,54
+FB013,Bhopal Hunger Help,Bhopal,"Food was delivered late, but safety measures were adequate",No,3658,91,50
+FB013,Bhopal Hunger Help,Bhopal,"Food delivered late occasionally, but maintained at proper temperatures",No,4037,114,68
+FB013,Bhopal Hunger Help,Bhopal,"Occasional delays in food delivery, but food is stored safely",No,2623,200,114
+FB013,Bhopal Hunger Help,Bhopal,"Occasional delays in food delivery, but food is stored safely",No,1844,66,51
+FB013,Bhopal Hunger Help,Bhopal,"Food arrived on time, hygiene practices were satisfactory",No,2295,56,52
+FB013,Bhopal Hunger Help,Bhopal,"Food quality and safety are good, but delays in delivery need attention",No,4678,54,50
+FB013,Bhopal Hunger Help,Bhopal,"Food arrived late, but storage and hygiene were acceptable",No,4418,193,50
+FB013,Bhopal Hunger Help,Bhopal,"Food quality and safety are good, but delays in delivery need attention",No,4809,106,71
+FB013,Bhopal Hunger Help,Bhopal,"Food safety protocols are consistent, but delivery could be more reliable",No,1813,174,110
+FB013,Bhopal Hunger Help,Bhopal,"Food storage meets health and safety standards, no delays in delivery",No,4795,186,50
+FB013,Bhopal Hunger Help,Bhopal,"Food safety standards are strictly followed, no issues reported",No,1632,154,90
+FB013,Bhopal Hunger Help,Bhopal,"Occasional delays in food delivery, but food is stored safely",No,3313,63,60
+FB013,Bhopal Hunger Help,Bhopal,"Food safety could be improved, but delivery is on time",No,1220,165,72
+FB013,Bhopal Hunger Help,Bhopal,"Food safety protocols are consistent, but delivery could be more reliable",No,4474,104,81
+FB013,Bhopal Hunger Help,Bhopal,"Food delivered on time, storage conditions were acceptable",No,1798,167,84
+FB013,Bhopal Hunger Help,Bhopal,"Food quality and safety are good, but delays in delivery need attention",No,1002,102,85
+FB014,Patna Food Support,Patna,"Food safety standards are strictly followed, no issues reported",No,2086,191,134
+FB014,Patna Food Support,Patna,"Food safety standards are strictly followed, no issues reported",No,1359,148,65
+FB014,Patna Food Support,Patna,"Food was delivered late, but safety measures were adequate",No,4037,66,52
+FB014,Patna Food Support,Patna,"Food quality is good, but there were slight delays in delivery",No,3101,156,132
+FB014,Patna Food Support,Patna,"Food safety protocols are consistent, but delivery could be more reliable",No,3494,72,72
+FB014,Patna Food Support,Patna,"Safety protocols are in place, food quality is maintained and delivered on time",No,4717,96,91
+FB014,Patna Food Support,Patna,"Food arrived on time, but cleanliness standards need improvement",No,3265,92,58
+FB014,Patna Food Support,Patna,"Food is handled hygienically, delivered promptly as promised",No,2096,168,119
+FB014,Patna Food Support,Patna,"Safety protocols are in place, food quality is maintained and delivered on time",No,2314,100,56
+FB014,Patna Food Support,Patna,"Food safety standards are usually met, but occasional delays in delivery",No,2952,148,88
+FB014,Patna Food Support,Patna,"Food arrived late, but storage and hygiene were acceptable",No,4602,146,114
+FB014,Patna Food Support,Patna,"Food quality and safety are good, but delays in delivery need attention",No,3494,57,55
+FB014,Patna Food Support,Patna,"Timely delivery, but food safety protocols were not fully followed",No,1627,84,79
+FB014,Patna Food Support,Patna,"Timely delivery, but some concerns with food safety measures",No,1697,70,56
+FB014,Patna Food Support,Patna,"Food was delivered late, but maintained proper hygiene throughout",No,2444,65,63
+FB014,Patna Food Support,Patna,"Food items are safe for consumption, consistently delivered on time",No,2456,63,55
+FB014,Patna Food Support,Patna,"Food safety standards are strictly followed, no issues reported",No,3629,185,55
+FB014,Patna Food Support,Patna,"Food safety standards are usually met, but occasional delays in delivery",No,3310,166,166
+FB014,Patna Food Support,Patna,"Occasional delays in food delivery, but food is stored safely",No,4494,110,70
+FB014,Patna Food Support,Patna,"Food arrived on time, but cleanliness standards need improvement",No,3818,57,54
+FB014,Patna Food Support,Patna,"Safety protocols are in place, food quality is maintained and delivered on time",No,4843,189,62
+FB014,Patna Food Support,Patna,"Food is handled hygienically, delivered promptly as promised",No,3506,139,102
+FB014,Patna Food Support,Patna,"Food arrived on time, hygiene practices were satisfactory",No,3608,75,55
+FB014,Patna Food Support,Patna,"Food safety protocols are consistent, but delivery could be more reliable",No,2928,161,87
+FB014,Patna Food Support,Patna,"Food delivered on time, storage conditions were acceptable",No,4521,132,62
+FB014,Patna Food Support,Patna,"Food arrived on time, hygiene practices were satisfactory",No,1927,98,68
+FB014,Patna Food Support,Patna,"Food quality and safety are good, but delays in delivery need attention",No,2491,123,78
+FB014,Patna Food Support,Patna,"Food safety standards are strictly followed, no issues reported",No,3927,166,144
+FB014,Patna Food Support,Patna,"Food quality is good, but there were slight delays in delivery",No,4119,110,52
+FB014,Patna Food Support,Patna,"Food arrived late, but storage and hygiene were acceptable",No,3941,126,115
+FB015,Chandigarh Meals,Chandigarh,"Food quality and safety are good, but delays in delivery need attention",No,2836,140,79
+FB015,Chandigarh Meals,Chandigarh,"Timely food delivery, well-maintained storage conditions",No,1861,79,77
+FB015,Chandigarh Meals,Chandigarh,"Food items are safe for consumption, consistently delivered on time",No,3242,173,141
+FB015,Chandigarh Meals,Chandigarh,"Food arrived on time, hygiene practices were satisfactory",No,1968,76,73
+FB015,Chandigarh Meals,Chandigarh,"Food safety could be improved, but delivery is on time",No,1769,137,85
+FB015,Chandigarh Meals,Chandigarh,"Food was delivered late, but maintained proper hygiene throughout",No,2685,119,71
+FB015,Chandigarh Meals,Chandigarh,"Food storage meets health and safety standards, no delays in delivery",No,4635,97,56
+FB015,Chandigarh Meals,Chandigarh,"Timely delivery, but food safety protocols were not fully followed",No,1997,124,82
+FB015,Chandigarh Meals,Chandigarh,"Food arrived on time, hygiene practices were satisfactory",No,4542,164,67
+FB015,Chandigarh Meals,Chandigarh,"Food is handled hygienically, delivered promptly as promised",No,1646,109,104
+FB015,Chandigarh Meals,Chandigarh,"Food was delivered late, but safety measures were adequate",No,3367,124,95
+FB015,Chandigarh Meals,Chandigarh,"Safety protocols are in place, food quality is maintained and delivered on time",No,1333,86,80
+FB015,Chandigarh Meals,Chandigarh,"Food quality and safety are good, but delays in delivery need attention",No,4512,190,133
+FB015,Chandigarh Meals,Chandigarh,"Food is handled hygienically, delivered promptly as promised",No,4581,149,107
+FB015,Chandigarh Meals,Chandigarh,"Occasional delays in food delivery, but food is stored safely",No,4399,125,113
+FB015,Chandigarh Meals,Chandigarh,"Food arrived on time, but cleanliness standards need improvement",No,4502,118,60
+FB015,Chandigarh Meals,Chandigarh,"Food arrived on time, though there were minor concerns with food safety",No,3767,144,125
+FB015,Chandigarh Meals,Chandigarh,"Food safety standards are usually met, but occasional delays in delivery",No,4579,195,104
+FB015,Chandigarh Meals,Chandigarh,"Food safety standards are usually met, but occasional delays in delivery",No,3481,119,107
+FB015,Chandigarh Meals,Chandigarh,"Food safety standards are usually met, but occasional delays in delivery",No,4259,178,75
+FB015,Chandigarh Meals,Chandigarh,"Food arrived on time, hygiene practices were satisfactory",No,1761,184,184
+FB015,Chandigarh Meals,Chandigarh,"Food safety standards are strictly followed, no issues reported",No,2214,155,94
+FB015,Chandigarh Meals,Chandigarh,"Food quality is good, but there were slight delays in delivery",No,1145,89,53
+FB015,Chandigarh Meals,Chandigarh,"Food safety standards are usually met, but occasional delays in delivery",No,2073,51,51
+FB015,Chandigarh Meals,Chandigarh,"Food is handled hygienically, delivered promptly as promised",No,1469,154,53
+FB015,Chandigarh Meals,Chandigarh,"Food items are safe for consumption, consistently delivered on time",No,1844,158,133
+FB015,Chandigarh Meals,Chandigarh,"Food storage meets health and safety standards, no delays in delivery",No,1786,126,76
+FB015,Chandigarh Meals,Chandigarh,"Food was delivered late, but maintained proper hygiene throughout",No,1240,121,87
+FB015,Chandigarh Meals,Chandigarh,"Food was delivered late, but safety measures were adequate",No,1074,195,160
+FB015,Chandigarh Meals,Chandigarh,"Food safety is a priority, but delivery delays occasionally occur",No,2914,60,57
+FB016,Kochi Hunger Relief,Kochi,"Food safety could be improved, but delivery is on time",No,2238,53,53
+FB016,Kochi Hunger Relief,Kochi,"Food quality is good, but there were slight delays in delivery",No,1800,57,52
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, but cleanliness standards need improvement",No,4354,121,66
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, hygiene practices were satisfactory",No,2221,190,129
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, though there were minor concerns with food safety",No,4220,122,94
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, but cleanliness standards need improvement",No,3047,96,85
+FB016,Kochi Hunger Relief,Kochi,"Safety protocols are in place, food quality is maintained and delivered on time",No,1042,67,59
+FB016,Kochi Hunger Relief,Kochi,"Food safety protocols are consistent, but delivery could be more reliable",No,1087,186,118
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, hygiene practices were satisfactory",No,4047,155,93
+FB016,Kochi Hunger Relief,Kochi,"Food was delivered late, but safety measures were adequate",No,3971,176,140
+FB016,Kochi Hunger Relief,Kochi,"Timely food delivery, well-maintained storage conditions",No,3835,156,130
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, though there were minor concerns with food safety",No,3260,124,62
+FB016,Kochi Hunger Relief,Kochi,"Food arrived late, but storage and hygiene were acceptable",No,3837,111,95
+FB016,Kochi Hunger Relief,Kochi,"Food safety is a priority, but delivery delays occasionally occur",No,2690,101,96
+FB016,Kochi Hunger Relief,Kochi,"Food delivered on time, storage conditions were acceptable",No,1206,151,57
+FB016,Kochi Hunger Relief,Kochi,"Safety protocols are in place, food quality is maintained and delivered on time",No,3394,135,63
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, though there were minor concerns with food safety",No,2184,62,62
+FB016,Kochi Hunger Relief,Kochi,"Food safety standards are strictly followed, no issues reported",No,3788,51,50
+FB016,Kochi Hunger Relief,Kochi,"Safety protocols are in place, food quality is maintained and delivered on time",No,4268,56,52
+FB016,Kochi Hunger Relief,Kochi,"Food delivered on time, storage conditions were acceptable",No,3404,187,181
+FB016,Kochi Hunger Relief,Kochi,"Food storage meets health and safety standards, no delays in delivery",No,4025,74,59
+FB016,Kochi Hunger Relief,Kochi,"Food safety standards are usually met, but occasional delays in delivery",No,1609,77,77
+FB016,Kochi Hunger Relief,Kochi,"Food safety is a priority, but delivery delays occasionally occur",No,3948,184,159
+FB016,Kochi Hunger Relief,Kochi,"Occasional delays in food delivery, but food is stored safely",No,1032,96,72
+FB016,Kochi Hunger Relief,Kochi,"Food was delivered late, but safety measures were adequate",No,4064,62,50
+FB016,Kochi Hunger Relief,Kochi,"Food items are safe for consumption, consistently delivered on time",No,2269,84,83
+FB016,Kochi Hunger Relief,Kochi,"Timely delivery, but food safety protocols were not fully followed",No,2926,131,130
+FB016,Kochi Hunger Relief,Kochi,"Food arrived on time, hygiene practices were satisfactory",No,1863,181,121
+FB016,Kochi Hunger Relief,Kochi,"Food safety is a priority, but delivery delays occasionally occur",No,1680,182,99
+FB016,Kochi Hunger Relief,Kochi,"Food storage meets health and safety standards, no delays in delivery",No,3349,193,166
+FB017,Nagpur Food Pantry,Nagpur,"Occasional delays in food delivery, but food is stored safely",No,3786,187,117
+FB017,Nagpur Food Pantry,Nagpur,"Food arrived on time, though there were minor concerns with food safety",No,2782,174,84
+FB017,Nagpur Food Pantry,Nagpur,"Food delivered late occasionally, but maintained at proper temperatures",No,1990,90,50
+FB017,Nagpur Food Pantry,Nagpur,"Food delivered on time, storage conditions were acceptable",No,2145,70,64
+FB017,Nagpur Food Pantry,Nagpur,"Safety protocols are in place, food quality is maintained and delivered on time",No,2103,88,63
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are strictly followed, no issues reported",No,2169,105,58
+FB017,Nagpur Food Pantry,Nagpur,"Food quality and safety are good, but delays in delivery need attention",No,4024,150,73
+FB017,Nagpur Food Pantry,Nagpur,"Food items are safe for consumption, consistently delivered on time",No,1245,119,106
+FB017,Nagpur Food Pantry,Nagpur,"Food arrived on time, but cleanliness standards need improvement",No,2705,195,190
+FB017,Nagpur Food Pantry,Nagpur,"Food storage meets health and safety standards, no delays in delivery",No,4057,77,64
+FB017,Nagpur Food Pantry,Nagpur,"Occasional delays in food delivery, but food is stored safely",No,1561,94,91
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are strictly followed, no issues reported",No,4033,156,114
+FB017,Nagpur Food Pantry,Nagpur,"Food items are safe for consumption, consistently delivered on time",No,4023,110,89
+FB017,Nagpur Food Pantry,Nagpur,"Timely delivery, but some concerns with food safety measures",No,2829,69,51
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are usually met, but occasional delays in delivery",No,2525,50,50
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are strictly followed, no issues reported",No,3892,91,57
+FB017,Nagpur Food Pantry,Nagpur,"Food arrived on time, hygiene practices were satisfactory",No,1497,57,52
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are strictly followed, no issues reported",No,4233,164,146
+FB017,Nagpur Food Pantry,Nagpur,"Food was delivered late, but maintained proper hygiene throughout",No,1377,117,82
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are strictly followed, no issues reported",No,3328,112,53
+FB017,Nagpur Food Pantry,Nagpur,"Timely delivery, but some concerns with food safety measures",No,2640,75,65
+FB017,Nagpur Food Pantry,Nagpur,"Food quality is good, but there were slight delays in delivery",No,2644,150,112
+FB017,Nagpur Food Pantry,Nagpur,"Food delivered on time, storage conditions were acceptable",No,2744,62,60
+FB017,Nagpur Food Pantry,Nagpur,"Food safety protocols are consistent, but delivery could be more reliable",No,3236,107,94
+FB017,Nagpur Food Pantry,Nagpur,"Food safety protocols are consistent, but delivery could be more reliable",No,4244,171,73
+FB017,Nagpur Food Pantry,Nagpur,"Food arrived on time, though there were minor concerns with food safety",No,1287,186,152
+FB017,Nagpur Food Pantry,Nagpur,"Occasional delays in food delivery, but food is stored safely",No,4187,119,91
+FB017,Nagpur Food Pantry,Nagpur,"Food was delivered late, but maintained proper hygiene throughout",No,2159,127,121
+FB017,Nagpur Food Pantry,Nagpur,"Food safety standards are usually met, but occasional delays in delivery",No,2594,156,110
+FB017,Nagpur Food Pantry,Nagpur,"Timely delivery, but food safety protocols were not fully followed",No,1514,177,64
+FB018,Vadodara Meal Drive,Vadodara,"Food safety could be improved, but delivery is on time",No,2877,173,157
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, though there were minor concerns with food safety",No,2684,175,149
+FB018,Vadodara Meal Drive,Vadodara,"Food delivered on time, storage conditions were acceptable",No,2955,63,58
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, but cleanliness standards need improvement",No,3815,162,107
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, hygiene practices were satisfactory",No,3195,146,83
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, though there were minor concerns with food safety",No,4856,194,58
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, hygiene practices were satisfactory",No,1763,198,100
+FB018,Vadodara Meal Drive,Vadodara,"Food safety standards are usually met, but occasional delays in delivery",No,1603,76,75
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, but cleanliness standards need improvement",No,1120,95,78
+FB018,Vadodara Meal Drive,Vadodara,"Occasional delays in food delivery, but food is stored safely",No,4983,96,65
+FB018,Vadodara Meal Drive,Vadodara,"Food safety standards are strictly followed, no issues reported",No,1791,95,77
+FB018,Vadodara Meal Drive,Vadodara,"Food is handled hygienically, delivered promptly as promised",No,3125,58,50
+FB018,Vadodara Meal Drive,Vadodara,"Occasional delays in food delivery, but food is stored safely",No,3773,152,140
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, hygiene practices were satisfactory",No,2157,187,121
+FB018,Vadodara Meal Drive,Vadodara,"Food was delivered late, but safety measures were adequate",No,3346,178,126
+FB018,Vadodara Meal Drive,Vadodara,"Food quality is good, but there were slight delays in delivery",No,4641,147,97
+FB018,Vadodara Meal Drive,Vadodara,"Food delivered on time, storage conditions were acceptable",No,3428,129,104
+FB018,Vadodara Meal Drive,Vadodara,"Safety protocols are in place, food quality is maintained and delivered on time",No,4989,154,142
+FB018,Vadodara Meal Drive,Vadodara,"Food quality and safety are good, but delays in delivery need attention",No,3949,57,53
+FB018,Vadodara Meal Drive,Vadodara,"Food safety could be improved, but delivery is on time",No,1086,122,117
+FB018,Vadodara Meal Drive,Vadodara,"Food safety could be improved, but delivery is on time",No,2885,58,51
+FB018,Vadodara Meal Drive,Vadodara,"Occasional delays in food delivery, but food is stored safely",No,3938,194,65
+FB018,Vadodara Meal Drive,Vadodara,"Safety protocols are in place, food quality is maintained and delivered on time",No,3367,115,68
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, but cleanliness standards need improvement",No,4879,75,58
+FB018,Vadodara Meal Drive,Vadodara,"Timely delivery, but food safety protocols were not fully followed",No,1914,67,67
+FB018,Vadodara Meal Drive,Vadodara,"Food arrived on time, though there were minor concerns with food safety",No,1586,130,63
+FB018,Vadodara Meal Drive,Vadodara,"Timely delivery, but food safety protocols were not fully followed",No,4069,56,56
+FB018,Vadodara Meal Drive,Vadodara,"Food items are safe for consumption, consistently delivered on time",No,1361,153,132
+FB018,Vadodara Meal Drive,Vadodara,"Food safety standards are strictly followed, no issues reported",No,4446,56,56
+FB018,Vadodara Meal Drive,Vadodara,"Food safety is a priority, but delivery delays occasionally occur",No,2237,160,94
+FB019,Kanpur Food Initiative,Kanpur,"Food was delivered late, but safety measures were adequate",Yes,4487,177,177
+FB019,Kanpur Food Initiative,Kanpur,"Food safety could be improved, but delivery is on time",Yes,1439,172,143
+FB019,Kanpur Food Initiative,Kanpur,"Food safety could be improved, but delivery is on time",Yes,2160,141,52
+FB019,Kanpur Food Initiative,Kanpur,"Occasional delays in food delivery, but food is stored safely",Yes,1379,116,77
+FB019,Kanpur Food Initiative,Kanpur,"Food safety standards are usually met, but occasional delays in delivery",Yes,4084,136,110
+FB019,Kanpur Food Initiative,Kanpur,"Food arrived on time, hygiene practices were satisfactory",Yes,3588,73,61
+FB019,Kanpur Food Initiative,Kanpur,"Food safety could be improved, but delivery is on time",Yes,3441,133,83
+FB019,Kanpur Food Initiative,Kanpur,"Food safety protocols are consistent, but delivery could be more reliable",Yes,4102,169,115
+FB019,Kanpur Food Initiative,Kanpur,"Food quality and safety are good, but delays in delivery need attention",Yes,1080,113,103
+FB019,Kanpur Food Initiative,Kanpur,"Food quality and safety are good, but delays in delivery need attention",Yes,2778,183,142
+FB019,Kanpur Food Initiative,Kanpur,"Timely delivery, but food safety protocols were not fully followed",Yes,3776,173,146
+FB019,Kanpur Food Initiative,Kanpur,"Food items are safe for consumption, consistently delivered on time",Yes,2621,171,81
+FB019,Kanpur Food Initiative,Kanpur,"Food arrived late, but storage and hygiene were acceptable",Yes,1603,94,56
+FB019,Kanpur Food Initiative,Kanpur,"Food safety standards are strictly followed, no issues reported",Yes,4022,96,95
+FB019,Kanpur Food Initiative,Kanpur,"Timely delivery, but some concerns with food safety measures",Yes,4467,75,55
+FB019,Kanpur Food Initiative,Kanpur,"Food delivered on time, storage conditions were acceptable",Yes,1472,87,80
+FB019,Kanpur Food Initiative,Kanpur,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,4857,177,176
+FB019,Kanpur Food Initiative,Kanpur,"Food delivered late occasionally, but maintained at proper temperatures",Yes,3879,131,128
+FB019,Kanpur Food Initiative,Kanpur,"Food arrived on time, but cleanliness standards need improvement",Yes,3883,111,66
+FB019,Kanpur Food Initiative,Kanpur,"Food safety protocols are consistent, but delivery could be more reliable",Yes,4890,112,76
+FB019,Kanpur Food Initiative,Kanpur,"Timely delivery, but some concerns with food safety measures",Yes,1410,58,53
+FB019,Kanpur Food Initiative,Kanpur,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,2756,152,148
+FB019,Kanpur Food Initiative,Kanpur,"Food arrived on time, though there were minor concerns with food safety",Yes,1041,166,113
+FB019,Kanpur Food Initiative,Kanpur,"Food arrived on time, but cleanliness standards need improvement",Yes,3912,71,67
+FB019,Kanpur Food Initiative,Kanpur,"Food is handled hygienically, delivered promptly as promised",Yes,3956,152,67
+FB019,Kanpur Food Initiative,Kanpur,"Food was delivered late, but safety measures were adequate",Yes,3651,122,93
+FB019,Kanpur Food Initiative,Kanpur,"Timely food delivery, well-maintained storage conditions",Yes,3694,55,54
+FB019,Kanpur Food Initiative,Kanpur,"Food was delivered late, but safety measures were adequate",Yes,3575,195,99
+FB019,Kanpur Food Initiative,Kanpur,"Timely food delivery, well-maintained storage conditions",Yes,2964,173,59
+FB019,Kanpur Food Initiative,Kanpur,"Safety protocols are in place, food quality is maintained and delivered on time",Yes,3411,197,64
+FB020,Agra Meals Distribution,Agra,"Food was delivered late, but maintained proper hygiene throughout",No,2834,68,59
+FB020,Agra Meals Distribution,Agra,"Food was delivered late, but maintained proper hygiene throughout",No,1415,113,86
+FB020,Agra Meals Distribution,Agra,"Safety protocols are in place, food quality is maintained and delivered on time",No,4338,105,97
+FB020,Agra Meals Distribution,Agra,"Timely delivery, but food safety protocols were not fully followed",No,4487,51,51
+FB020,Agra Meals Distribution,Agra,"Food storage meets health and safety standards, no delays in delivery",No,2206,187,104
+FB020,Agra Meals Distribution,Agra,"Food was delivered late, but maintained proper hygiene throughout",No,4920,90,53
+FB020,Agra Meals Distribution,Agra,"Food items are safe for consumption, consistently delivered on time",No,2800,112,97
+FB020,Agra Meals Distribution,Agra,"Food was delivered late, but maintained proper hygiene throughout",No,2179,164,62
+FB020,Agra Meals Distribution,Agra,"Food arrived on time, though there were minor concerns with food safety",No,4970,165,72
+FB020,Agra Meals Distribution,Agra,"Safety protocols are in place, food quality is maintained and delivered on time",No,2315,145,113
+FB020,Agra Meals Distribution,Agra,"Timely delivery, but some concerns with food safety measures",No,2456,175,119
+FB020,Agra Meals Distribution,Agra,"Food safety standards are strictly followed, no issues reported",No,4221,161,70
+FB020,Agra Meals Distribution,Agra,"Food delivered on time, storage conditions were acceptable",No,2327,149,51
+FB020,Agra Meals Distribution,Agra,"Safety protocols are in place, food quality is maintained and delivered on time",No,2974,77,57
+FB020,Agra Meals Distribution,Agra,"Food items are safe for consumption, consistently delivered on time",No,1752,92,64
+FB020,Agra Meals Distribution,Agra,"Food arrived late, but storage and hygiene were acceptable",No,2734,171,101
+FB020,Agra Meals Distribution,Agra,"Timely delivery, but some concerns with food safety measures",No,4046,62,52
+FB020,Agra Meals Distribution,Agra,"Food safety standards are usually met, but occasional delays in delivery",No,1245,60,52
+FB020,Agra Meals Distribution,Agra,"Food items are safe for consumption, consistently delivered on time",No,1253,105,92
+FB020,Agra Meals Distribution,Agra,"Food storage meets health and safety standards, no delays in delivery",No,3593,155,53
+FB020,Agra Meals Distribution,Agra,"Food safety standards are usually met, but occasional delays in delivery",No,1598,91,78
+FB020,Agra Meals Distribution,Agra,"Food was delivered late, but safety measures were adequate",No,4795,165,56
+FB020,Agra Meals Distribution,Agra,"Food arrived on time, though there were minor concerns with food safety",No,1425,68,62
+FB020,Agra Meals Distribution,Agra,"Safety protocols are in place, food quality is maintained and delivered on time",No,2212,155,89
+FB020,Agra Meals Distribution,Agra,"Food quality is good, but there were slight delays in delivery",No,2290,164,82
+FB020,Agra Meals Distribution,Agra,"Food safety is a priority, but delivery delays occasionally occur",No,4603,99,63
+FB020,Agra Meals Distribution,Agra,"Food arrived on time, hygiene practices were satisfactory",No,2897,183,50
+FB020,Agra Meals Distribution,Agra,"Food safety standards are strictly followed, no issues reported",No,1666,120,50
+FB020,Agra Meals Distribution,Agra,"Food delivered late occasionally, but maintained at proper temperatures",No,1624,115,97
+FB020,Agra Meals Distribution,Agra,"Food arrived on time, though there were minor concerns with food safety",No,3215,93,73
